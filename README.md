@@ -1,3 +1,6 @@
+
+    
+    
 1) rails db:seed
 2) Api ----
 
@@ -37,8 +40,6 @@ Response -
         "updated_at": "2020-01-20T06:53:52.067Z"
     }
     ]
-    
-    
     2) Add Product to Cart ----
     
     API - POST"localhost:3000/orders"
